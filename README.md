@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Victormiccs
-- 👀 I’m interested in backend development(python), Data Science and Machine Learning
-- 🌱 I’m currently learning all of the above, I have to add Solutions Architect
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software development, web development and automation.
+- 🌱 
+- 💞️ I’m looking to collaborate on any of the above projects...
 - 📫 How to reach me isok.victormails@gmail.com...
 
 <!---
